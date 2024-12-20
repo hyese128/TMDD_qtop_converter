@@ -13,9 +13,10 @@
    - shinythemes
 
 ## Instruction
-1. The interface consists of a left sidebar and a right main panel.
-   - Left sidebar
-     - Upload file button : can uplod '.mod' files written NONMEM language
-    
-
-3. Select the desired ID and click "Load" at the top to fetch the associated data.
+1. Upload file tab : can uplod '.mod' files written NONMEM language
+2. Should select the appropriate option for the uploaded model
+  - Whether TMDD was applied only to drug-receptor interactions or also to drug-FcRn interactions
+  - Whether the observed blood concentration is non-binding or total concentration
+  - Compartment number where the receptor (drug receptor, FcRn respectively) exists
+3. Press the "process file" button to execute the conversion.
+4. Press the "Download Processed File" bytton to download the pTMDD file.
