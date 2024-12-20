@@ -38,7 +38,9 @@ ui <- fluidPage(
     mainPanel(
       tabsetPanel(
         tabPanel("Instructions",
-                 img(src = "instruction3.png", height = "616px", width = "1011px")
+                 img(src = "https://raw.githubusercontent.com/hyese128/TMDD_qtop_converter/main/images/instruction3.png", 
+                     height = "616px", 
+                     width = "1011px")
         ),
         tabPanel("Processed File",
                  conditionalPanel(
