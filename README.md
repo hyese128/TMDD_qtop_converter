@@ -14,10 +14,29 @@
 
 ## Instruction
 1. Upload file tab : can uplod '.mod' files written NONMEM language
+<div align="center">
+    <img src="https://github.com/hyese128/TMDD_qtop_converter/blob/main/images/image1.png" width="400" height="300">
+</div>
+
 2. Select the appropriate option for the uploaded model (Refer to the instruction on the first tab of the right panel)
+<div align="center">
+    <img src="https://github.com/hyese128/TMDD_qtop_converter/blob/main/images/image2.png" width="400" height="300">
+</div>
    - Whether TMDD was applied only to drug-receptor interactions or also to drug-FcRn interactions
    - Whether the observed blood concentration is non-binding or total concentration
    - Compartment number where the receptor (drug receptor, FcRn respectively) exists
+   
 3. Press the "process file" button to execute the conversion.
+<div align="center">
+    <img src="https://github.com/hyese128/TMDD_qtop_converter/blob/main/images/image3.png" width="400" height="300">
+</div>
+
 4. Click the second tab of the right panel to check the converted pTMDD file.
+<div align="center">
+    <img src="https://github.com/hyese128/TMDD_qtop_converter/blob/main/images/image4.png" width="400" height="300">
+</div>
+
 5. Press the "Download Processed File" button to download the pTMDD file.
+<div align="center">
+    <img src="https://github.com/hyese128/TMDD_qtop_converter/blob/main/images/image5.png" width="400" height="300">
+</div>
