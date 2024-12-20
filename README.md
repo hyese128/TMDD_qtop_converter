@@ -1,7 +1,7 @@
 # TMDD converter : qTMDD to pTMDD
 - pTMDD is a novel approximation obtained by Taylor series first-order approximation from qTMDD (QSS approximation model assuming total receptor concentration is constant).
 - This new approximation model is accurate compared to the Michaelis-menten model and computationally faster than the Quasi-steady-state model.
-- For a detailed description of pTMDD, refer to the following DOI: 0.1371/journal.pcbi.1012066
+- For a detailed description of pTMDD, refer to the following DOI: 10.1371/journal.pcbi.1012066
 
 ## Features
 1. Web-based (R-shiny)
